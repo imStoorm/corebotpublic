@@ -1,0 +1,16 @@
+{
+  "name": "cronogramacore",
+  "version": "1.0.0",
+  "description": "Bot para automatização dos cronogramas da CORE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "discord.js": "^13.8.1",
+    "simpl.db": "^2.12.1"
+  }
+}
